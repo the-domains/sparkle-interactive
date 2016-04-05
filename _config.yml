@@ -1,0 +1,14 @@
+layout_spectrum: 0.8895447
+color:
+  saturation: 1
+  brandStrength: 0.4915669
+  lightness: 0.7487352
+  rhythmicContrast: 0.811973
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+typography_spectrum: 0.5101181
+name: Sparkle Interactive
